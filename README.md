@@ -1,4 +1,5 @@
 # Hi, I'm Prince Mehta 👋
+📄 **[Download my Resume (PDF)](./Prince_Mehta_Resume.pdf)**
 
 **Data Engineer** with 2+ years of experience building scalable ELT pipelines, Lakehouse architectures, and automated data workflows.
 
